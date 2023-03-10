@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector0<int> findDuplicates(vector<int>& nums) {
+    vector00<int> findDuplicates(vector<int>& nums) {
         if(nums.empty())
              return {};
         
